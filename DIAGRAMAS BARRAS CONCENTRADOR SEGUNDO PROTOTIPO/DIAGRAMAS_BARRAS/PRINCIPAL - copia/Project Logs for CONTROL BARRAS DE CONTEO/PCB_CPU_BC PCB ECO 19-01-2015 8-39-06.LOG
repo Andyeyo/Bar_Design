@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetLCD1_16 Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=R1-2
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-1
+Removed Member From Class: ClassName=U_MDL-LCD_2X16 Member=R1
+Removed Member From Class: ClassName=U_MDL-LCD_2X16 Member=R2
+Added Component: Designator=R100(AXIAL-0.3)
+Added Component: Designator=R200(AXIAL-0.3)
+Added Pin To Net: NetName=NetLCD1_16 Pin=R100-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R100-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R200-1
+Added Member To Class: ClassName=U_MDL-LCD_2X16 Member=Component R100 Res
+Added Member To Class: ClassName=U_MDL-LCD_2X16 Member=Component R200 Res

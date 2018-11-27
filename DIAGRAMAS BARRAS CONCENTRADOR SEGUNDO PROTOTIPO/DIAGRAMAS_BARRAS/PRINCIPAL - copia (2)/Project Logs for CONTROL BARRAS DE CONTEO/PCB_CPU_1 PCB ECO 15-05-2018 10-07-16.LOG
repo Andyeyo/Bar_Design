@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DET_3 Pin=P6-1
+Removed Pin From Net: NetName=DET_3 Pin=R18-1
+Change Net Name : Old Net Name=DET_3 New Net Name=OPTO_PUERTA
+Added Pin To Net: NetName=DET_3 Pin=P6-1
+Added Pin To Net: NetName=DET_3 Pin=R18-1
+Added Pin To Net: NetName=DET_3 Pin=U2-9
+Added Net: Name=DET_3

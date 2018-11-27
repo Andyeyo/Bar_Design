@@ -1,0 +1,8 @@
+Added Component: Designator=CT1(VP31-2.5)
+Added Component: Designator=CT2(VP31-2.5)
+Added Pin To Net: NetName=NetCT1_1 Pin=CT1-1
+Added Pin To Net: NetName=GND Pin=CT1-2
+Added Pin To Net: NetName=GND Pin=CT2-1
+Added Pin To Net: NetName=NetCT2_2 Pin=CT2-2
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component CT1 VP31BA220JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component CT2 VP31BA220JB

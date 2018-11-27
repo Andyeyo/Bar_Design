@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=F1 Old Footprint=PIN-W2/E2.8 New Footprint=fusible1
+Change Pin Designator/Name:  Old Designator=U2-5 Old Name=RA3/AN3/VREF+ New Designator =RA4/T0CKI/C1OUT New Name=6
+Change Pin Designator/Name:  Old Designator=U2-6 Old Name=RA4/T0CKI/C1OUT New Designator =RA3/AN3/VREF+ New Name=5
+Change Pin Designator/Name:  Old Designator=U2-25 Old Name=RC6/TX/CK New Designator =RB6/KBI2/PGC New Name=39
+Change Pin Designator/Name:  Old Designator=U2-26 Old Name=RC7/RX/DT New Designator =TX/RB7/KBI3/PGD New Name=40
+Change Pin Designator/Name:  Old Designator=U2-33 Old Name=RB0/INT0/FLT0/AN12 New Designator =RC7/RX/DT New Name=26
+Change Pin Designator/Name:  Old Designator=U2-34 Old Name=RB1/INT1/AN10 New Designator =RB0/INT0/FLT0/AN12 New Name=33
+Change Pin Designator/Name:  Old Designator=U2-35 Old Name=RB2/INT2/AN8 New Designator =RB1/INT1/AN10 New Name=34
+Change Pin Designator/Name:  Old Designator=U2-36 Old Name=RB3/AN9/CCP2 New Designator =RC6/TX/CK New Name=25
+Change Pin Designator/Name:  Old Designator=U2-37 Old Name=RB4/KBI0/AN11 New Designator =RB2/INT2/AN8 New Name=35
+Change Pin Designator/Name:  Old Designator=U2-38 Old Name=RB5/KBI1/PGM New Designator =RB3/AN9/CCP2 New Name=36
+Change Pin Designator/Name:  Old Designator=U2-39 Old Name=RB6/KBI2/PGC New Designator =RB4/KBI0/AN11 New Name=37
+Change Pin Designator/Name:  Old Designator=U2-40 Old Name=TX/RB7/KBI3/PGD New Designator =RB5/KBI1/PGM New Name=38

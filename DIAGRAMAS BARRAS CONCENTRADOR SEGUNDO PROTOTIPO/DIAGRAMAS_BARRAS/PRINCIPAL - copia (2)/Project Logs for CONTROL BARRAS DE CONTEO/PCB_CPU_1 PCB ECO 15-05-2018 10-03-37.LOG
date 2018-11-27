@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OPTO_ALIMENTACION Pin=U2-8
+Removed Pin From Net: NetName=RGB_V Pin=U2-10
+Added Pin To Net: NetName=DET_3 Pin=OP2-7
+Added Pin To Net: NetName=DET_3 Pin=R9-1
+Added Pin To Net: NetName=RGB_V Pin=U2-8
+Added Pin To Net: NetName=OPTO_ALIMENTACION Pin=U2-10

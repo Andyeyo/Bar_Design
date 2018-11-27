@@ -1,0 +1,25 @@
+Added Component: Designator=U2(PDIP600-P40)
+Added Pin To Net: NetName=5VCC Pin=U2-1
+Added Pin To Net: NetName=TX_TTL_V2 Pin=U2-2
+Added Pin To Net: NetName=RX_TTL_V2 Pin=U2-3
+Added Pin To Net: NetName=485_RE Pin=U2-4
+Added Pin To Net: NetName=TX_TTL_V1 Pin=U2-8
+Added Pin To Net: NetName=RX_TTL_V1 Pin=U2-9
+Added Pin To Net: NetName=5VCC Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=NetC4_2 Pin=U2-13
+Added Pin To Net: NetName=NetC3_1 Pin=U2-14
+Added Pin To Net: NetName=OUT_IR1 Pin=U2-15
+Added Pin To Net: NetName=OUT_IR2 Pin=U2-16
+Added Pin To Net: NetName=OUT_IR3 Pin=U2-17
+Added Pin To Net: NetName=DI_485 Pin=U2-25
+Added Pin To Net: NetName=RO_485 Pin=U2-26
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Pin To Net: NetName=5VCC Pin=U2-32
+Added Pin To Net: NetName=BUZZER Pin=U2-38
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component U2 PIC18F4620-I/P
+Added Room: Name=U_MDL-485
+Added Room: Name=U_MDL_FUENTE_5V
+Added Room: Name=U_MDL_RECEPTOR_IRF
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

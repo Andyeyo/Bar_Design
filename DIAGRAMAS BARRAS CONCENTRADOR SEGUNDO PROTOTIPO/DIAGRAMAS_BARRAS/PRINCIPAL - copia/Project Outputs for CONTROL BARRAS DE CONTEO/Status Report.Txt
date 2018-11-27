@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CONTROL BARRAS DE CONTEO.PrjPcb]
+   Generated File[PCB_CPU_BC.TXT]
+   Generated File[PCB_CPU_BC.LDP]
+   Generated File[PCB_CPU_BC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:53:45 On 10/02/2015

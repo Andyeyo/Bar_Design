@@ -1,0 +1,3 @@
+Change Component Library : Designator=P6 Old Library=Miscellaneous Connectors.IntLib New Library=salida12pines.PcbLib
+Added Member To Class: ClassName=concentrador Member=Component P6 Header 6
+Added Room: Name=concentrador

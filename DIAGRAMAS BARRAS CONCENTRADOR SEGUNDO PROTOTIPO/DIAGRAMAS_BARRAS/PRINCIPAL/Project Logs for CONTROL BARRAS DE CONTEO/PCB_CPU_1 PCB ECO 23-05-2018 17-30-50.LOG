@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U5-0
+Removed Pin From Net: NetName=GND Pin=U5-0
+Change Component Footprint: Designator=J1 Old Footprint=PCBComponent_1 New Footprint=FP_CON10

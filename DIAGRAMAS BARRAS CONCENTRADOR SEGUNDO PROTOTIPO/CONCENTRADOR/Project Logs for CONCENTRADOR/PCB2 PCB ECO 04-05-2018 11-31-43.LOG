@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Member From Class: ClassName=concentrador Member=D3
+Removed Member From Class: ClassName=concentrador Member=D4
+Removed Member From Class: ClassName=concentrador Member=R3
+Removed Member From Class: ClassName=concentrador Member=R4
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_R4
+Change Component Designator: OldDesignator=D2 NewDesignator=D2_T4
+Change Component Designator: OldDesignator=D5 NewDesignator=D5_RELE
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD1_R4_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD2_T4_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD5_RELE_2
+Added Room: Name=concentrador

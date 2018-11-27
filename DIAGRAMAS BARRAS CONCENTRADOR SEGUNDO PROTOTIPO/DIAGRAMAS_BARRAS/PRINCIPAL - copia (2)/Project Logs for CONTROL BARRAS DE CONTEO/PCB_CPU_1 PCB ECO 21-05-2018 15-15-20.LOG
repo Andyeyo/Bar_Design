@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=U5 Old DesignItemId=LM2575T-5.0 New DesignItemId=LM2596T-5.0
+Change Component Footprint: Designator=U5 Old Footprint=HDR1X5 New Footprint=FP_LM2596_D_PCB
+Change Component Comment : Designator=U5 Old Comment=LM2575T-5.0 New Comment=LM2596T-5.0
+Added Room: Name=U_MDL-485
+Added Room: Name=U_MDL_CONTROL
+Added Room: Name=U_MDL_FUENTE_5V
+Added Room: Name=U_MDL_RECEPTOR_IRF
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

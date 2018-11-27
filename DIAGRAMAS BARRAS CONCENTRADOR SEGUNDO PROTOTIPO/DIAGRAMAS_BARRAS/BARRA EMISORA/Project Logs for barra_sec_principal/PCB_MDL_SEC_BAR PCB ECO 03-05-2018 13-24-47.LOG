@@ -1,0 +1,4 @@
+Added Component: Designator=LS1(C100UFA)
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=5VCC Pin=LS1-2
+Added Member To Class: ClassName=barra_sec_principal Member=Component LS1 Speaker

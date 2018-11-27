@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_CPU_1.PcbDoc   24/05/2018  13:41:42
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_CPU_1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          8                2.92 Inch (74.07 mm)
+T2        31.5mil (0.8001mm)       Round          8                6.54 Inch (166.15 mm)
+T3        33.5mil (0.8509mm)       Round          30               6.82 Inch (173.33 mm)
+T4        35.4mil (0.89916mm)      Round          99               25.83 Inch (656.11 mm)
+T5        39.4mil (1.00076mm)      Round          29               14.38 Inch (365.28 mm)
+T6        47.2mil (1.19888mm)      Round          5                0.60 Inch (15.31 mm)
+T7        59.1mil (1.50114mm)      Round          10               2.09 Inch (53.00 mm)
+T8        60mil (1.524mm)          Round          4                3.50 Inch (88.84 mm)
+T9        63mil (1.6002mm)         Round          2                0.79 Inch (20.00 mm)
+T10       137.8mil (3.50012mm)     Round          1                0.00 Inch (0.00 mm)
+T11       157.5mil (4.0005mm)      Round          4                14.92 Inch (378.90 mm)
+T12       128mil (3.2512mm)        Round          4         NPTH   8.19 Inch (208.12 mm)
+---------------------------------------------------------------------------
+Totals                                            204              86.58 Inch (2199.11 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

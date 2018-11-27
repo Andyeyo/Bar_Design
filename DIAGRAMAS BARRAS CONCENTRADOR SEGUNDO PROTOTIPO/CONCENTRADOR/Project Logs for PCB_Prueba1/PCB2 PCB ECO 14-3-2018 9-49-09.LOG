@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=J1 Old Footprint=1-1470156 New Footprint=USBB
+Added Component: Designator=B1(BORNE2)
+Added Component: Designator=H1(Header 1X6)
+Added Pin To Net: NetName=5VCC Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=5VCC Pin=H1-5
+Added Pin To Net: NetName=EN_BT Pin=H1-6
+Added Pin To Net: NetName=EN_BT Pin=U1-18
+Added Net: Name=EN_BT
+Added Pin To Net: NetName=RX_BT Pin=H1-2
+Added Pin To Net: NetName=RX_BT Pin=U1-23
+Added Net: Name=RX_BT
+Added Pin To Net: NetName=STATE_BT Pin=H1-1
+Added Pin To Net: NetName=STATE_BT Pin=U1-17
+Added Net: Name=STATE_BT
+Added Pin To Net: NetName=TX_BT Pin=H1-3
+Added Pin To Net: NetName=TX_BT Pin=U1-22
+Added Net: Name=TX_BT
+Added Member To Class: ClassName=concentrador Member=Component B1 Borne
+Added Member To Class: ClassName=concentrador Member=Component H1 Header 6
+Added Room: Name=concentrador

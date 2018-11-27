@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=OP1-8
+Removed Pin From Net: NetName=GND Pin=OP2-8
+Removed Pin From Net: NetName=5VCC Pin=R7-2
+Removed Pin From Net: NetName=24VCC Pin=R8-1
+Removed Pin From Net: NetName=5VCC Pin=R9-2
+Removed Pin From Net: NetName=24VCC Pin=R10-1
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=OP1
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=OP2
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=R7
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=R8
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=R9
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=R10
+Added Component: Designator=CONECTOR_CARRO(FP_CON12PAUTZ)
+Added Pin To Net: NetName=485_DO_A Pin=CONECTOR_CARRO-1
+Added Pin To Net: NetName=GND Pin=CONECTOR_CARRO-2
+Added Pin To Net: NetName=485_DO_B Pin=CONECTOR_CARRO-3
+Added Pin To Net: NetName=VCC_IN Pin=CONECTOR_CARRO-4
+Added Pin To Net: NetName=485_DO_A Pin=CONECTOR_CARRO-5
+Added Pin To Net: NetName=5VCC Pin=CONECTOR_CARRO-6
+Added Pin To Net: NetName=485_DO_B Pin=CONECTOR_CARRO-7
+Added Pin To Net: NetName=GND Pin=CONECTOR_CARRO-8
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component CONECTOR_CARRO Header 4X2

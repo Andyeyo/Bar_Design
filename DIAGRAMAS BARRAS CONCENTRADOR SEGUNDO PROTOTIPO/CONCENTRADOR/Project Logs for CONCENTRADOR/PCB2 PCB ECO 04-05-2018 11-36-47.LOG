@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=concentrador Member=P6
+Added Component: Designator=P_NUEVO(PCBComponent_1)
+Added Pin To Net: NetName=NetP_NUEVO_1 Pin=U8-2
+Added Net: Name=NetP_NUEVO_1
+Added Pin To Net: NetName=NetP_NUEVO_2 Pin=R20-2
+Added Net: Name=NetP_NUEVO_2
+Added Pin To Net: NetName=NetP_NUEVO_3 Pin=U7-2
+Added Net: Name=NetP_NUEVO_3
+Added Pin To Net: NetName=NetP_NUEVO_4 Pin=R18-2
+Added Net: Name=NetP_NUEVO_4
+Added Pin To Net: NetName=NetP_NUEVO_5 Pin=U6-2
+Added Net: Name=NetP_NUEVO_5
+Added Pin To Net: NetName=NetP_NUEVO_6 Pin=R16-2
+Added Net: Name=NetP_NUEVO_6
+Added Member To Class: ClassName=concentrador Member=Component P_NUEVO Header 6
+Added Room: Name=concentrador

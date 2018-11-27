@@ -1,0 +1,5 @@
+Added Component: Designator=R12_ioptp(AXIAL-0.3)
+Added Pin To Net: NetName=NetR12_ioptp_1 Pin=R12_ioptp-1
+Added Pin To Net: NetName=NetP2_4 Pin=R12_ioptp-2
+Added Member To Class: ClassName=concentrador Member=Component R12_ioptp Res1
+Added Room: Name=concentrador

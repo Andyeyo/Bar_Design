@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=5VCC Pin=LCD1-2
+Removed Pin From Net: NetName=5VCC Pin=LCD1-15
+Removed Pin From Net: NetName=5VCC Pin=PR1-CCW
+Removed Pin From Net: NetName=GND Pin=PR1-CW
+Removed Pin From Net: NetName=GND Pin=Q1-1

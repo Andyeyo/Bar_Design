@@ -1,0 +1,7 @@
+Added Component: Designator=J1(USBB)
+Added Pin To Net: NetName=5VCC Pin=J1-1
+Added Pin To Net: NetName=D- Pin=J1-2
+Added Pin To Net: NetName=D+ Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=concentrador Member=Component J1 1-1470156-1
+Added Room: Name=concentrador

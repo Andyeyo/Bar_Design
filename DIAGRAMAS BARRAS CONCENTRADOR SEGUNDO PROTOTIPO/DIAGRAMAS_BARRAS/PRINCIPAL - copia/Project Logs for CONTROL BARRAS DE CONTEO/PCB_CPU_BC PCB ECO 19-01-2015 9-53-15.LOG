@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=VS Pin=C11-1
+Removed Pin From Net: NetName=VS Pin=C14-1
+Removed Pin From Net: NetName=VS Pin=P4-3
+Removed Pin From Net: NetName=VS Pin=P6-3
+Removed Pin From Net: NetName=VS Pin=R13-2
+Removed Pin From Net: NetName=VS Pin=R15-2
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=C10
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=C12
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=C13
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=C14
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=P5
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=P6
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=R14
+Removed Member From Class: ClassName=U_MDL_RECEPTOR_IRF Member=R15
+Added Class: Name=U_MDL_RECEPTOR_IRF_1
+Added Class: Name=U_MDL_RECEPTOR_IRF_2
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

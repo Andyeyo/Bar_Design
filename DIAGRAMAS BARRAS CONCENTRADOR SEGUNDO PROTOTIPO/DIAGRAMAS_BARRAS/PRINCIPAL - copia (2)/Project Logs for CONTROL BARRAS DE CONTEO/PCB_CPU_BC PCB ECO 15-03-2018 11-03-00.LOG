@@ -1,0 +1,6 @@
+Added Component: Designator=F_NUEVO(fusible1)
+Added Pin To Net: NetName=NetD2_1 Pin=F_NUEVO-1
+Added Pin To Net: NetName=NetD2_1 Pin=F_NUEVO-1
+Added Pin To Net: NetName=VCC_IN Pin=F_NUEVO-2
+Added Pin To Net: NetName=VCC_IN Pin=F_NUEVO-2
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component F_NUEVO Fuse 1

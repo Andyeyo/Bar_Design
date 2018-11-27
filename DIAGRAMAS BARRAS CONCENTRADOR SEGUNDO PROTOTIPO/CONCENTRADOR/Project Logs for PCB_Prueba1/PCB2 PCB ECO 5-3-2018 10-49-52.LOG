@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BOTON_PANICO1 Pin=P2-1
+Removed Pin From Net: NetName=BOTON_PANICO1 Pin=P2-1
+Change Net Name : Old Net Name=BOTON_PANICO1 New Net Name=5VCC
+Added Pin To Net: NetName=BOTON_PANICO1 Pin=P2-1
+Added Pin To Net: NetName=BOTON_PANICO1 Pin=P2-1
+Added Net: Name=BOTON_PANICO1
+Added Room: Name=concentrador

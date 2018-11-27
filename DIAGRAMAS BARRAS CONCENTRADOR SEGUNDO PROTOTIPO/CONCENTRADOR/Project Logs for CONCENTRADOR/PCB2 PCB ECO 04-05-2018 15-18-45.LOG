@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TTL_TX2 Pin=U1-2
+Removed Pin From Net: NetName=TTL_RX2 Pin=U1-3
+Added Pin To Net: NetName=TTL_RX2 Pin=U1-2
+Added Pin To Net: NetName=TTL_TX2 Pin=U1-3
+Added Room: Name=concentrador

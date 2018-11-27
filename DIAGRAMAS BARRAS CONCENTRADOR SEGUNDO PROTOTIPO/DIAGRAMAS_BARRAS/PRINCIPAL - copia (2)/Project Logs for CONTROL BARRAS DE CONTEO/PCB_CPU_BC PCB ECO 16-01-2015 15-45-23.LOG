@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=5VCC Pin=R12-1
+Removed Pin From Net: NetName=SCL_DS Pin=R12-2
+Removed Pin From Net: NetName=5VCC Pin=U4-12
+Removed Pin From Net: NetName=5VCC Pin=U4-13
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R4 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R6 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R7 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R9 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R11 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R12 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R11 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R12 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Comment : Designator=R3 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R4 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R5 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R6 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R7 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R9 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R11 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R12 Old Comment=PT New Comment=Res
+Added Pin To Net: NetName=SCL_DS Pin=R12-1
+Added Pin To Net: NetName=5VCC Pin=R12-2
+Added Pin To Net: NetName=SP_OP1 Pin=OP1-7
+Added Pin To Net: NetName=SP_OP1 Pin=R7-1
+Added Pin To Net: NetName=SP_OP1 Pin=U4-12
+Added Net: Name=SP_OP1
+Added Pin To Net: NetName=SP_OP2 Pin=OP2-7
+Added Pin To Net: NetName=SP_OP2 Pin=R9-1
+Added Pin To Net: NetName=SP_OP2 Pin=U4-13
+Added Net: Name=SP_OP2

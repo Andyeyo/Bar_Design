@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_CONCENTRADOR.PcbDoc   24/05/2018  12:54:29
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_CONCENTRADOR-RoundHoles.TXT
+ASCII SlotHoles File : PCB_CONCENTRADOR-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          22               9.27 Inch (235.44 mm)
+T2        31.5mil (0.8001mm)       Round          13               3.47 Inch (88.07 mm)
+T3        33.5mil (0.8509mm)       Round          48               12.82 Inch (325.63 mm)
+T4        35.4mil (0.89916mm)      Round          108              24.63 Inch (625.58 mm)
+T5        39.4mil (1.00076mm)      Round          15               9.36 Inch (237.79 mm)
+T6        40mil (1.016mm)          Round          20               6.77 Inch (171.97 mm)
+T7        47.2mil (1.19888mm)      Round          5                0.57 Inch (14.45 mm)
+T8        47.2mil (1.19888mm)      Slot           24               292.14 Inch (7420.27 mm)
+T9        55.1mil (1.39954mm)      Round          5                1.44 Inch (36.65 mm)
+T10       60mil (1.524mm)          Round          4                1.69 Inch (42.90 mm)
+T11       63mil (1.6002mm)         Round          2                0.79 Inch (20.00 mm)
+T12       106.3mil (2.70002mm)     Round          12               3.36 Inch (85.42 mm)
+T13       118.1mil (2.99974mm)     Round          6                6.44 Inch (163.66 mm)
+T14       137.8mil (3.50012mm)     Round          5                13.79 Inch (350.39 mm)
+T15       128mil (3.2512mm)        Round          4         NPTH   1.95 Inch (49.43 mm)
+---------------------------------------------------------------------------
+Totals                                            293              388.49 Inch (9867.65 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

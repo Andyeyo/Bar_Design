@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DET_6 Pin=U2-37
+Removed Pin From Net: NetName=BUZZER Pin=U2-38
+Added Pin To Net: NetName=BUZZER Pin=U2-37
+Added Pin To Net: NetName=DET_6 Pin=U2-38
+Added Room: Name=U_MDL-485
+Added Room: Name=U_MDL_CONTROL
+Added Room: Name=U_MDL_FUENTE_5V
+Added Room: Name=U_MDL_RECEPTOR_IRF
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

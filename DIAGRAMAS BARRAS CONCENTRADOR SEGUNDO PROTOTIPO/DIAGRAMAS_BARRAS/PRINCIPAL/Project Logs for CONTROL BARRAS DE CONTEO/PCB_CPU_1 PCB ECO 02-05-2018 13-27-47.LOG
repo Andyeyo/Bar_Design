@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=RE_485 Pin=U1-2
+Added Pin To Net: NetName=RE_485 Pin=U1-3
+Added Pin To Net: NetName=RO_485 Pin=U2-33
+Added Pin To Net: NetName=DI_485 Pin=U2-36

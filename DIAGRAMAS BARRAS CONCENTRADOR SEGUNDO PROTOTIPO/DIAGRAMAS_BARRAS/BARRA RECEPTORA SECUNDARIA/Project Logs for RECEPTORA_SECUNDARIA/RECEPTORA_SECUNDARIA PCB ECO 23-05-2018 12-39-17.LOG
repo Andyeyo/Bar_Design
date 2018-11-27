@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap2 New DesignItemId=VP44BY224JB
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap2 New DesignItemId=VP44BY224JB
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap2 New DesignItemId=VP44BY224JB
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap2 New DesignItemId=VP44BY224JB
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap2 New DesignItemId=VP44BY224JB
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap2 New DesignItemId=VP44BY224JB
+Change Component Footprint: Designator=C1 Old Footprint=CAPR5-4X5 New Footprint=VP44-2.5
+Change Component Footprint: Designator=C2 Old Footprint=CAPR5-4X5 New Footprint=VP44-2.5
+Change Component Footprint: Designator=C3 Old Footprint=CAPR5-4X5 New Footprint=VP44-2.5
+Change Component Footprint: Designator=C4 Old Footprint=CAPR5-4X5 New Footprint=VP44-2.5
+Change Component Footprint: Designator=C5 Old Footprint=CAPR5-4X5 New Footprint=VP44-2.5
+Change Component Footprint: Designator=C6 Old Footprint=CAPR5-4X5 New Footprint=VP44-2.5
+Change Component Comment : Designator=C1 Old Comment=Cap2 New Comment=VP44BY224JB
+Change Component Comment : Designator=C2 Old Comment=Cap2 New Comment=VP44BY224JB
+Change Component Comment : Designator=C3 Old Comment=Cap2 New Comment=VP44BY224JB
+Change Component Comment : Designator=C4 Old Comment=Cap2 New Comment=VP44BY224JB
+Change Component Comment : Designator=C5 Old Comment=Cap2 New Comment=VP44BY224JB
+Change Component Comment : Designator=C6 Old Comment=Cap2 New Comment=VP44BY224JB

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD2_1 Pin=F1-1
+Removed Pin From Net: NetName=NetD2_1 Pin=F1-1
+Removed Pin From Net: NetName=24VCC_IN Pin=F1-2
+Removed Pin From Net: NetName=24VCC_IN Pin=F1-2
+Change Component Footprint: Designator=F1 Old Footprint=fusible1 New Footprint=PORTA_FUSE
+Added Pin To Net: NetName=24VCC_IN Pin=F1-1
+Added Pin To Net: NetName=24VCC_IN Pin=F1-1
+Added Pin To Net: NetName=NetD2_1 Pin=F1-2
+Added Pin To Net: NetName=NetD2_1 Pin=F1-2

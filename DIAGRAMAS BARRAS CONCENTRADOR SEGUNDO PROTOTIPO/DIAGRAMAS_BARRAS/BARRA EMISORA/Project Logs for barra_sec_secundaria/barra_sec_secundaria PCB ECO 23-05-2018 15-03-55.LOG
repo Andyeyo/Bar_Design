@@ -1,0 +1,13 @@
+Added Component: Designator=LS1(C100UFA)
+Added Pin To Net: NetName=5VCC Pin=LS1-2
+Change Net Name : Old Net Name=FRECUENCIA LED5 New Net Name=D5
+Added Pin To Net: NetName=BUZZER_OUT Pin=JC2-4
+Added Pin To Net: NetName=BUZZER_OUT Pin=LS1-1
+Added Net: Name=BUZZER_OUT
+Added Pin To Net: NetName=D4 Pin=JC2-2
+Added Pin To Net: NetName=D4 Pin=R10-2
+Added Net: Name=D4
+Added Pin To Net: NetName=D6 Pin=JC2-7
+Added Pin To Net: NetName=D6 Pin=R11-2
+Added Net: Name=D6
+Added Member To Class: ClassName=barra_sec_secundaria Member=Component LS1 Speaker

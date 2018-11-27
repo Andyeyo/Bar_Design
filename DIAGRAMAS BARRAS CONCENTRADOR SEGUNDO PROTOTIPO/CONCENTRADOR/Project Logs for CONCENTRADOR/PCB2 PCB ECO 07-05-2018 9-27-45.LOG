@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U3-6
+Added Net: Name=NetC5_1
+Added Room: Name=concentrador

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=JC2-7
+Added Component: Designator=R19(AXIAL-0.3)
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=P_RJ45 Pin=JC2-7
+Added Pin To Net: NetName=P_RJ45 Pin=R19-2
+Added Pin To Net: NetName=P_RJ45 Pin=U4-3
+Added Net: Name=P_RJ45
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component R19 Res

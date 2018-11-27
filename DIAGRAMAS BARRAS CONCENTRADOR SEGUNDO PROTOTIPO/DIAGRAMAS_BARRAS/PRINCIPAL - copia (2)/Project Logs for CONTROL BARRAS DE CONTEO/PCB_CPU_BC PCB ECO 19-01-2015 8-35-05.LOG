@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-2
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-0.3
+Change Component Comment : Designator=R1 Old Comment=PT New Comment=Res
+Change Component Comment : Designator=R2 Old Comment=PT New Comment=Res
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-1
+Added Member To Class: ClassName=U_MDL-LCD_2X16 Member=Component R2 Res

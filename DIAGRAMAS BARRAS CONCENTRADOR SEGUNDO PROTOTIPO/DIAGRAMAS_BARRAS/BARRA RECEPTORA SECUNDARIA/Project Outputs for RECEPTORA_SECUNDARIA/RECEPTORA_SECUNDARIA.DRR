@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RECEPTORA_SECUNDARIA.PcbDoc   24/05/2018  13:33:46
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RECEPTORA_SECUNDARIA.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        29.5mil (0.7493mm)       Round          4                0.15 Inch (3.81 mm)
+T2        33.5mil (0.8509mm)       Round          18               8.44 Inch (214.37 mm)
+T3        35.4mil (0.89916mm)      Round          21               9.65 Inch (245.02 mm)
+T4        39.4mil (1.00076mm)      Round          22               10.23 Inch (259.80 mm)
+T5        157.5mil (4.0005mm)      Round          4                20.39 Inch (517.79 mm)
+T6        128mil (3.2512mm)        Round          2         NPTH   0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            71               49.30 Inch (1252.21 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

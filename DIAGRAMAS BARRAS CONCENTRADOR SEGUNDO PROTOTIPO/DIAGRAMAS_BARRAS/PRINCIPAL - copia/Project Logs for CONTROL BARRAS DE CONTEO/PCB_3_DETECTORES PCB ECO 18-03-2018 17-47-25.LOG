@@ -1,0 +1,7 @@
+Added Component: Designator=U5(T05A)
+Added Pin To Net: NetName=24VCC Pin=U5-1
+Added Pin To Net: NetName=NetD1_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=5VCC Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component U5 LM2575T-5.0

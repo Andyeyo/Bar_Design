@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RS232_TX_MONITOREO Pin=RJ_SERIAL_1-6
+Removed Pin From Net: NetName=GND Pin=RJ_SERIAL_1-8
+Removed Pin From Net: NetName=RS232_TXPC Pin=RJ_SERIAL_2-6
+Removed Pin From Net: NetName=GND Pin=RJ_SERIAL_2-8
+Added Pin To Net: NetName=GND Pin=RJ_SERIAL_1-6
+Added Pin To Net: NetName=RS232_TX_MONITOREO Pin=RJ_SERIAL_1-8
+Added Pin To Net: NetName=GND Pin=RJ_SERIAL_2-6
+Added Pin To Net: NetName=RS232_TXPC Pin=RJ_SERIAL_2-8
+Added Room: Name=concentrador

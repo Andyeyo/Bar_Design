@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=C1
+Change Component Designator: OldDesignator=C1 NewDesignator=C15
+Change Component Designator: OldDesignator=C2 NewDesignator=C16
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC15_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC16_2
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C15 VP31BA220JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C16 VP31BA220JB

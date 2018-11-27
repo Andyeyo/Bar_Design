@@ -1,0 +1,13 @@
+Added Component: Designator=conector automotriz(PCBComponent_1)
+Added Pin To Net: NetName=485_DO_A Pin=conector automotriz-1
+Added Pin To Net: NetName=GND Pin=conector automotriz-2
+Added Pin To Net: NetName=485_DO_B Pin=conector automotriz-3
+Added Pin To Net: NetName=VCC_IN Pin=conector automotriz-4
+Added Pin To Net: NetName=485_DO_A Pin=conector automotriz-5
+Added Pin To Net: NetName=GND Pin=conector automotriz-6
+Added Pin To Net: NetName=485_DO_B Pin=conector automotriz-7
+Added Pin To Net: NetName=VCC_IN Pin=conector automotriz-8
+Added Pin To Net: NetName=GND Pin=conector automotriz-9
+Added Pin To Net: NetName=PUERTA Pin=conector automotriz-10
+Change Net Name : Old Net Name=GND New Net Name=TIERRA
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component conector automotriz Header 5X2

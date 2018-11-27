@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=U3-1
+Removed Pin From Net: NetName=NetC7_1 Pin=U3-3
+Added Pin To Net: NetName=NetC7_1 Pin=U3-1
+Added Pin To Net: NetName=NetC7_2 Pin=U3-3
+Added Room: Name=concentrador

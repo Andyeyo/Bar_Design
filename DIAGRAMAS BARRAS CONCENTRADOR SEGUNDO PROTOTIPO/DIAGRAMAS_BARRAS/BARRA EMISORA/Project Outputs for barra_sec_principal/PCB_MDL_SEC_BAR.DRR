@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_MDL_SEC_BAR.PcbDoc   24/05/2018  14:45:53
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_MDL_SEC_BAR.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        33.5mil (0.8509mm)       Round          8                6.78 Inch (172.11 mm)
+T2        35.4mil (0.89916mm)      Round          34               9.98 Inch (253.58 mm)
+T3        39.4mil (1.00076mm)      Round          4                2.32 Inch (58.86 mm)
+T4        40mil (1.016mm)          Round          6                6.03 Inch (153.17 mm)
+T5        157.5mil (4.0005mm)      Round          4                21.64 Inch (549.55 mm)
+T6        128mil (3.2512mm)        Round          4         NPTH   8.27 Inch (209.95 mm)
+---------------------------------------------------------------------------
+Totals                                            60               55.01 Inch (1397.22 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=L1 Old Footprint=Inductor_redondo New Footprint=AXIAL-0.8
+Change Component Designator: OldDesignator=P? NewDesignator=PBLUE
+Added Room: Name=U_MDL_CONTROL

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=FRECUENCIA Pin=JC2-2
+Removed Pin From Net: NetName=FRECUENCIA Pin=JC2-4
+Removed Pin From Net: NetName=FRECUENCIA Pin=JC2-6
+Removed Pin From Net: NetName=FRECUENCIA Pin=R10-2
+Removed Pin From Net: NetName=FRECUENCIA Pin=R12-2
+Added Component: Designator=D6(LED5MM RED)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Pin To Net: NetName=5VCC Pin=D6-1
+Added Pin To Net: NetName=FRECUENCIA_LED4 Pin=JC2-4
+Added Pin To Net: NetName=FRECUENCIA_LED4 Pin=R10-2
+Added Net: Name=FRECUENCIA_LED4
+Added Pin To Net: NetName=FRECUENCIA LED5 Pin=JC2-6
+Added Pin To Net: NetName=FRECUENCIA LED5 Pin=R12-2
+Added Net: Name=FRECUENCIA LED5
+Added Pin To Net: NetName=FRECUENCIA LED6 Pin=JC2-2
+Added Pin To Net: NetName=FRECUENCIA LED6 Pin=R11-2
+Added Net: Name=FRECUENCIA LED6
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R11-1
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=barra_sec_secundaria Member=Component D6 LED1
+Added Member To Class: ClassName=barra_sec_secundaria Member=Component R11 Res

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=P_RJ45 Pin=JC2-7
+Added Component: Designator=R10(AXIAL-0.3)
+Added Pin To Net: NetName=5VCC Pin=R10-1
+Added Pin To Net: NetName=P_RJ45 Pin=R10-2
+Added Member To Class: ClassName=barra_sec_principal Member=Component R10 Res

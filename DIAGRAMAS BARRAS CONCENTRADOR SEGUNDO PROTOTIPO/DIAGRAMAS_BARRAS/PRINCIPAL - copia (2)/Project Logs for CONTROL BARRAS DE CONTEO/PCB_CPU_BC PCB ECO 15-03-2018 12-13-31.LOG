@@ -1,0 +1,4 @@
+Added Component: Designator=F1(FUSIBLE_BUSMATIC)
+Added Pin To Net: NetName=NetD2_1 Pin=F1-1
+Added Pin To Net: NetName=VCC_IN Pin=F1-2
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component F1 Fuse 1

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=5VCC Pin=JC2-1
+Removed Pin From Net: NetName=GND Pin=JC2-8
+Removed Pin From Net: NetName=5VCC Pin=LS1-2
+Removed Pin From Net: NetName=PWM Pin=U7-1
+Removed Pin From Net: NetName=PWM Pin=U7-2
+Removed Pin From Net: NetName=PWM Pin=U7-3
+Removed Pin From Net: NetName=PWM Pin=U7-4
+Removed Pin From Net: NetName=PWM Pin=U7-5
+Removed Pin From Net: NetName=BUZZER Pin=U7-6
+Removed Pin From Net: NetName=GND Pin=U7-9
+Removed Pin From Net: NetName=5VCC Pin=U7-10
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=LS1
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=U7
+Added Component: Designator=CONECTOR_CARRO(FP_CON12PAUTZ)
+Added Pin To Net: NetName=485_DO_A Pin=CONECTOR_CARRO-1
+Added Pin To Net: NetName=GND Pin=CONECTOR_CARRO-2
+Added Pin To Net: NetName=485_DO_B Pin=CONECTOR_CARRO-3
+Added Pin To Net: NetName=VCC_IN Pin=CONECTOR_CARRO-4
+Added Pin To Net: NetName=485_DO_A Pin=CONECTOR_CARRO-5
+Added Pin To Net: NetName=5VCC Pin=CONECTOR_CARRO-6
+Added Pin To Net: NetName=485_DO_B Pin=CONECTOR_CARRO-7
+Added Pin To Net: NetName=PUERTA Pin=CONECTOR_CARRO-8
+Added Pin To Net: NetName=GND Pin=JC2-1
+Added Pin To Net: NetName=BUZZER Pin=JC2-2
+Added Pin To Net: NetName=PWM Pin=JC2-4
+Added Pin To Net: NetName=P_RJ45 Pin=JC2-6
+Added Pin To Net: NetName=5VCC Pin=JC2-8
+Added Pin To Net: NetName=DET_6 Pin=U2-37
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component CONECTOR_CARRO Header 4X2
+Added Room: Name=U_MDL-485
+Added Room: Name=U_MDL_CONTROL
+Added Room: Name=U_MDL_FUENTE_5V
+Added Room: Name=U_MDL_RECEPTOR_IRF
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

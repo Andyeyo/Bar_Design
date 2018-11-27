@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C1 Old Footprint=Lenteja New Footprint=RAD-0.3
+Change Component Footprint: Designator=C2 Old Footprint=Lenteja New Footprint=RAD-0.3
+Change Component Footprint: Designator=C3 Old Footprint=Lenteja New Footprint=RAD-0.3
+Change Component Footprint: Designator=C4 Old Footprint=Lenteja New Footprint=RAD-0.3
+Change Component Comment: Designator=C3 Old Comment=22pF New Comment=Cap
+Change Component Comment: Designator=C4 Old Comment=22pF New Comment=Cap
+Change Component Comment: Designator=C1 Old Comment=100nF New Comment=Cap
+Change Component Comment: Designator=C2 Old Comment=470nF New Comment=Cap

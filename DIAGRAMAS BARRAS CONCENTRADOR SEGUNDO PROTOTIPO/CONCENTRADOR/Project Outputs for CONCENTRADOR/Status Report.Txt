@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CONCENTRADOR.PrjPcb]
+   Generated File[PCB_CONCENTRADOR-RoundHoles.TXT]
+   Generated File[PCB_CONCENTRADOR-SlotHoles.TXT]
+   Generated File[PCB_CONCENTRADOR.LDP]
+   Generated File[PCB_CONCENTRADOR.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:54:29 On 24/05/2018

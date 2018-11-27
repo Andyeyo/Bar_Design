@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U10-0
+Removed Pin From Net: NetName=GND Pin=U10-0
+Added Pin To Net: NetName=STATE_BT Pin=U1-26

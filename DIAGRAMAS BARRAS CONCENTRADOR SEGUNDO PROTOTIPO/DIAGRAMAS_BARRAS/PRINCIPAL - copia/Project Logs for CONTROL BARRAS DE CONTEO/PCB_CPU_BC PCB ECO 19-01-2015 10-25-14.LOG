@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=5VCC Pin=C9-2
+Added Pin To Net: NetName=5VCC Pin=C13-2
+Change Net Name : Old Net Name=VS New Net Name=NetC12_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=P6-3
+Added Pin To Net: NetName=NetC14_1 Pin=R15-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=VS Pin=C11-1
+Added Pin To Net: NetName=VS Pin=P4-3
+Added Pin To Net: NetName=VS Pin=R13-2
+Added Net: Name=VS

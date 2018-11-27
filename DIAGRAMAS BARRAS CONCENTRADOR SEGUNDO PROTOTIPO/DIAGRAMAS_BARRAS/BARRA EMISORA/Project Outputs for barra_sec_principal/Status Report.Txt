@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [barra_sec_principal.PrjPCB]
+   Generated File[PCB_MDL_SEC_BAR.TXT]
+   Generated File[PCB_MDL_SEC_BAR.LDP]
+   Generated File[PCB_MDL_SEC_BAR.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:45:53 On 24/05/2018

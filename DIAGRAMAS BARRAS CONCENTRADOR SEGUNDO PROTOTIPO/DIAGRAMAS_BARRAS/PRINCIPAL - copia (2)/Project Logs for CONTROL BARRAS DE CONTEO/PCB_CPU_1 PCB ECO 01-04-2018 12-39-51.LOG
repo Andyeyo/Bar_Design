@@ -1,0 +1,12 @@
+Added Component: Designator=P3(FP_CON12PAUTZ)
+Added Pin To Net: NetName=485_DO_A Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=485_DO_B Pin=P3-3
+Added Pin To Net: NetName=VCC_IN Pin=P3-4
+Added Pin To Net: NetName=485_DO_A Pin=P3-5
+Added Pin To Net: NetName=5VCC Pin=P3-6
+Added Pin To Net: NetName=485_DO_B Pin=P3-7
+Added Pin To Net: NetName=SN_OP2 Pin=P3-8
+Added Pin To Net: NetName=SN_OP1 Pin=P3-9
+Added Pin To Net: NetName=GND Pin=P3-10
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component P3 Header 6X2

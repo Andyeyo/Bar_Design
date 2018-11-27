@@ -1,0 +1,57 @@
+Added Component: Designator=C1(VP44-2.5)
+Added Component: Designator=C2(VP44-2.5)
+Added Component: Designator=C3(VP31-2.5)
+Added Component: Designator=C4(VP31-2.5)
+Added Component: Designator=C5(VP31-2.5)
+Added Component: Designator=C6(VP31-2.5)
+Added Component: Designator=C7(VP44-2.5)
+Added Component: Designator=C8(VP44-2.5)
+Added Component: Designator=C9(VP44-2.5)
+Added Component: Designator=C10(VP44-2.5)
+Added Component: Designator=C11(VP44-2.5)
+Added Component: Designator=C12(VP44-2.5)
+Added Component: Designator=C13(VP44-2.5)
+Added Component: Designator=C14(VP44-2.5)
+Added Pin To Net: NetName=5VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=24VCC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5VCC Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=5VCC Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=5VCC Pin=C10-2
+Added Pin To Net: NetName=VS Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=5VCC Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Member To Class: ClassName=U_MDL-485 Member=Component C1 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C2 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C3 VP31BA220JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C4 VP31BA220JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C5 VP31BA220JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C6 VP31BA220JB
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component C7 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component C8 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_RECEPTOR_IRF Member=Component C9 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_RECEPTOR_IRF_1 Member=Component C10 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_RECEPTOR_IRF Member=Component C11 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_RECEPTOR_IRF_1 Member=Component C12 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_RECEPTOR_IRF_2 Member=Component C13 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_RECEPTOR_IRF_2 Member=Component C14 VP44BY224JB
+Added Room: Name=U_MDL_FUENTE_5V

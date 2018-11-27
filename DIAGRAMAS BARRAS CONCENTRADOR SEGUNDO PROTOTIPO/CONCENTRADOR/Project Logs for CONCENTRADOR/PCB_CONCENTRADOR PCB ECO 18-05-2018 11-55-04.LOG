@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=concentrador Member=C2
+Added Component: Designator=S1(PULSA4)
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=S1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=concentrador Member=Component S1 Push Button

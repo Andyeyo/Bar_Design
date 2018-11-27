@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetDRGB2_1 Pin=DRGB-1
+Added Pin To Net: NetName=NetDRGB2_1 Pin=R9-1
+Added Net: Name=NetDRGB2_1
+Added Pin To Net: NetName=NetDRGB2_3 Pin=DRGB-3
+Added Pin To Net: NetName=NetDRGB2_3 Pin=R8-1
+Added Net: Name=NetDRGB2_3
+Added Pin To Net: NetName=NetDRGB2_4 Pin=DRGB-4
+Added Pin To Net: NetName=NetDRGB2_4 Pin=R7-1
+Added Net: Name=NetDRGB2_4

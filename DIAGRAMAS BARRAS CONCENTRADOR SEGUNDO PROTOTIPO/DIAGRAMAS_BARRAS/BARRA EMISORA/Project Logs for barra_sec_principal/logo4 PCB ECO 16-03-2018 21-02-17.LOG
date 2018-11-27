@@ -1,0 +1,61 @@
+Added Component: Designator=C_5_1(PCBComponent_1)
+Added Component: Designator=C_5_2(RAD-0.3)
+Added Component: Designator=D1(LED5MM RED)
+Added Component: Designator=D2(LED5MM RED)
+Added Component: Designator=D3(LED5MM RED)
+Added Component: Designator=JC2(15-43-6233)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R12(AXIAL-0.3)
+Added Component: Designator=R_5_1(AXIAL-0.5)
+Added Component: Designator=R_5_2(AXIAL-0.5)
+Added Component: Designator=R_5_3(AXIAL-0.5)
+Added Component: Designator=U_555(JG008)
+Added Pin To Net: NetName=5VCC Pin=D1-1
+Added Pin To Net: NetName=5VCC Pin=D2-1
+Added Pin To Net: NetName=5VCC Pin=D3-1
+Added Pin To Net: NetName=5VCC Pin=JC2-1
+Added Pin To Net: NetName=5VCC Pin=R_5_1-2
+Added Pin To Net: NetName=5VCC Pin=U_555-4
+Added Pin To Net: NetName=5VCC Pin=U_555-8
+Added Net: Name=5VCC
+Added Pin To Net: NetName=FRECUENCIA Pin=JC2-2
+Added Pin To Net: NetName=FRECUENCIA Pin=JC2-3
+Added Pin To Net: NetName=FRECUENCIA Pin=JC2-4
+Added Pin To Net: NetName=FRECUENCIA Pin=JC2-5
+Added Pin To Net: NetName=FRECUENCIA Pin=JC2-6
+Added Pin To Net: NetName=FRECUENCIA Pin=JC2-7
+Added Pin To Net: NetName=FRECUENCIA Pin=R10-2
+Added Pin To Net: NetName=FRECUENCIA Pin=R11-2
+Added Pin To Net: NetName=FRECUENCIA Pin=R12-2
+Added Pin To Net: NetName=FRECUENCIA Pin=U_555-3
+Added Net: Name=FRECUENCIA
+Added Pin To Net: NetName=GND Pin=C_5_1-1
+Added Pin To Net: NetName=GND Pin=C_5_2-1
+Added Pin To Net: NetName=GND Pin=JC2-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC_5_1_2 Pin=R_5_3-2
+Added Pin To Net: NetName=NetC_5_1_2 Pin=U_555-2
+Added Pin To Net: NetName=NetC_5_1_2 Pin=U_555-6
+Added Net: Name=NetC_5_1_2
+Added Pin To Net: NetName=NetC_5_2_2 Pin=C_5_2-2
+Added Pin To Net: NetName=NetC_5_2_2 Pin=U_555-5
+Added Net: Name=NetC_5_2_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R10-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R11-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R12-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetR_5_1_1 Pin=R_5_1-1
+Added Pin To Net: NetName=NetR_5_1_1 Pin=R_5_2-1
+Added Pin To Net: NetName=NetR_5_1_1 Pin=U_555-7
+Added Net: Name=NetR_5_1_1
+Added Pin To Net: NetName=NetR_5_2_2 Pin=R_5_2-2
+Added Pin To Net: NetName=NetR_5_2_2 Pin=R_5_3-1
+Added Net: Name=NetR_5_2_2
+Added Class: Name=barra_sec_principal
+Added Room: Name=barra_sec_principal

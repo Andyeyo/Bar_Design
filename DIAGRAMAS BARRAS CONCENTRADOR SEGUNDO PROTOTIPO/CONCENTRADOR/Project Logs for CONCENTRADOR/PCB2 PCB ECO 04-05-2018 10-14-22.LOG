@@ -1,0 +1,16 @@
+Added Component: Designator=C7_FUENTE(VP44-2.5)
+Added Component: Designator=C8_FUENTE(VP44-2.5)
+Added Component: Designator=F1_FUENTE(fusible1)
+Added Pin To Net: NetName=24VCC Pin=C7_FUENTE-1
+Added Pin To Net: NetName=GND Pin=C7_FUENTE-2
+Added Pin To Net: NetName=GND Pin=C8_FUENTE-1
+Added Pin To Net: NetName=5VCC Pin=C8_FUENTE-2
+Added Pin To Net: NetName=NetD2_FUENTE_1 Pin=F1_FUENTE-1
+Added Pin To Net: NetName=NetD2_FUENTE_1 Pin=F1_FUENTE-1
+Added Pin To Net: NetName=24VCC_IN Pin=F1_FUENTE-2
+Added Pin To Net: NetName=24VCC_IN Pin=F1_FUENTE-2
+Added Pin To Net: NetName=NetD5_ENCENDIDO_1 Pin=R_ENCENDIDO-2
+Added Net: Name=NetD5_ENCENDIDO_1
+Added Member To Class: ClassName=concentrador Member=Component C7_FUENTE VP44BY224JB
+Added Member To Class: ClassName=concentrador Member=Component C8_FUENTE VP44BY224JB
+Added Member To Class: ClassName=concentrador Member=Component F1_FUENTE Fuse

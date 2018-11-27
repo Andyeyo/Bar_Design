@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DI_485 Pin=U2-25
+Removed Pin From Net: NetName=RO_485 Pin=U2-26
+Added Pin To Net: NetName=RO_485 Pin=U2-33
+Added Pin To Net: NetName=DI_485 Pin=U2-36

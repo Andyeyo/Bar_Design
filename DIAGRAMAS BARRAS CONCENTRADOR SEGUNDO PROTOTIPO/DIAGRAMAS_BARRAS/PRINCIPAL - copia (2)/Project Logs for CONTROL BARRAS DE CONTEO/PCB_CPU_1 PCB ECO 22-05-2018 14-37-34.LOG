@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=U_MDL-485 Member=C15
+Change Net Name : Old Net Name=TIERRA New Net Name=GND
+Added Member To Class: ClassName=U_MDL-485 Member=Component C1 VP44BY224JB
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component C2 VP44BY224JB
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_5

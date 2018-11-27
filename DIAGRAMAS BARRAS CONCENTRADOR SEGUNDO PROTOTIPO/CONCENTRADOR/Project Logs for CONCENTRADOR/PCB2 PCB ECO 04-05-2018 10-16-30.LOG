@@ -1,0 +1,4 @@
+Added Component: Designator=D5_ENCENDIDO(C1UF)
+Added Pin To Net: NetName=NetD5_ENCENDIDO_1 Pin=D5_ENCENDIDO-1
+Added Pin To Net: NetName=GND Pin=D5_ENCENDIDO-2
+Added Member To Class: ClassName=concentrador Member=Component D5_ENCENDIDO LED0

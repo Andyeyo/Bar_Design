@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R3 NewDesignator=R11
+Change Component Designator: OldDesignator=R4 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R3
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component OP1 4N33

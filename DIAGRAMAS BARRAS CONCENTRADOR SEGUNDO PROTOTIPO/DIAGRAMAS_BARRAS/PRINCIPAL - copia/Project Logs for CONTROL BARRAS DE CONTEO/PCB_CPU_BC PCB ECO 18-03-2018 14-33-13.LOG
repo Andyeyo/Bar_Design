@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5VCC Pin=LS1-2
+Removed Pin From Net: NetName=GND Pin=U7-9
+Removed Pin From Net: NetName=5VCC Pin=U7-10
+Added Component: Designator=Db(DO-41)
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=BUZZER Pin=Db-1
+Added Pin To Net: NetName=BUZZER Pin=U2-38
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=NetDb_2 Pin=Db-2
+Added Pin To Net: NetName=NetDb_2 Pin=LS1-1
+Added Net: Name=NetDb_2
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component Db Diode 1N4007
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component JC2 RJ45
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component LS1 Speaker
+Change Room Name: Old Name=U_MDL_ULN2803 New Name=U_MDL_CONTROL
+Change Room Scope: Old Scope=InComponentClass('U_MDL_ULN2803') New Scope=InComponentClass('U_MDL_CONTROL')

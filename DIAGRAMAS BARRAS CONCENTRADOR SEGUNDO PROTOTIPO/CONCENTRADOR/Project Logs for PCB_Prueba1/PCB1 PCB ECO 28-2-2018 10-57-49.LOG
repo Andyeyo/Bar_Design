@@ -1,0 +1,23 @@
+Added Member To Class: ClassName=concentrador Member=Component C1 Cap
+Added Member To Class: ClassName=concentrador Member=Component C3 Cap
+Added Member To Class: ClassName=concentrador Member=Component C4 Cap
+Added Member To Class: ClassName=concentrador Member=Component C5 Cap Pol1
+Added Member To Class: ClassName=concentrador Member=Component C6 Cap Pol1
+Added Member To Class: ClassName=concentrador Member=Component C7 Cap Pol1
+Added Member To Class: ClassName=concentrador Member=Component C8 Cap Pol1
+Added Member To Class: ClassName=concentrador Member=Component D1 LED0
+Added Member To Class: ClassName=concentrador Member=Component D2 LED0
+Added Member To Class: ClassName=concentrador Member=Component D3 LED0
+Added Member To Class: ClassName=concentrador Member=Component D4 LED0
+Added Member To Class: ClassName=concentrador Member=Component P3 MHDR2X10
+Added Member To Class: ClassName=concentrador Member=Component P5 Header 3
+Added Member To Class: ClassName=concentrador Member=Component R1 Res1
+Added Member To Class: ClassName=concentrador Member=Component R2 Res1
+Added Member To Class: ClassName=concentrador Member=Component R3 Res1
+Added Member To Class: ClassName=concentrador Member=Component R4 Res1
+Added Member To Class: ClassName=concentrador Member=Component R9 Res1
+Added Member To Class: ClassName=concentrador Member=Component U1 PIC18F2550-I/SP
+Added Member To Class: ClassName=concentrador Member=Component U2 MAX485CPA
+Added Member To Class: ClassName=concentrador Member=Component U3 MAX232N
+Added Member To Class: ClassName=concentrador Member=Component Y1 XTAL
+Added Room: Name=concentrador

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5VCC Pin=P_BLUE-1
+Removed Pin From Net: NetName=GND Pin=P_BLUE-2
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=P_BLUE

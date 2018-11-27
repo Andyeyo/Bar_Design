@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=XTAL New DesignItemId=Cristal de cuarzo
+Change Component Description : Designator=Y1 Old Description=Crystal Oscillator New Description=Cristal de cuarzo
+Change Component Library : Designator=Y1 Old Library=Miscellaneous Devices.IntLib New Library=Cristales de cuarzo.IntLib

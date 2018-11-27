@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OPTO1 Pin=U1-11
+Removed Pin From Net: NetName=OPTO3 Pin=U1-13
+Removed Pin From Net: NetName=OPTO4 Pin=U1-15
+Removed Pin From Net: NetName=OPTO5 Pin=U1-16
+Added Pin To Net: NetName=OPTO3 Pin=U1-11
+Added Pin To Net: NetName=OPTO1 Pin=U1-13
+Added Pin To Net: NetName=OPTO5 Pin=U1-15
+Added Pin To Net: NetName=OPTO4 Pin=U1-16
+Added Room: Name=concentrador

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=U_MDL_CONTROL Member=CT2
+Change Component Designator: OldDesignator=CT1 NewDesignator=C1
+Change Component Designator: OldDesignator=CT2 NewDesignator=C2
+Change Net Name : Old Net Name=NetCT1_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetCT2_2 New Net Name=NetC2_2

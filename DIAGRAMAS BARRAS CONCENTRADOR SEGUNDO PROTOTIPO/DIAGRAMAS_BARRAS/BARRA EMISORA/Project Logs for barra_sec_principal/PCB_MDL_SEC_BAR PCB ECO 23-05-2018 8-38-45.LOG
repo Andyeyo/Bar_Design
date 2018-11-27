@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5VCC Pin=LS1-2
+Removed Member From Class: ClassName=barra_sec_principal Member=LS1
+Added Pin To Net: NetName=BUZZER_OUT Pin=JC2-4
+Added Pin To Net: NetName=BUZZER_OUT Pin=U7-11
+Added Net: Name=BUZZER_OUT

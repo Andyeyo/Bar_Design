@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NetC5_2 Pin=C5-2
+Removed Pin From Net: NetName=NetC6_1 Pin=C6-1
+Removed Pin From Net: NetName=5VCC Pin=C6-2
+Removed Pin From Net: NetName=NetC7_1 Pin=U3-1
+Removed Pin From Net: NetName=NetC7_2 Pin=U3-3
+Removed Pin From Net: NetName=NetC8_1 Pin=U3-4
+Removed Pin From Net: NetName=NetC8_2 Pin=U3-5
+Added Pin To Net: NetName=NetC5_2 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=5VCC Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-2
+Added Pin To Net: NetName=NetC7_2 Pin=U3-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-3
+Added Pin To Net: NetName=NetC8_2 Pin=U3-4
+Added Pin To Net: NetName=NetC8_1 Pin=U3-5
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC6_2
+Added Room: Name=concentrador

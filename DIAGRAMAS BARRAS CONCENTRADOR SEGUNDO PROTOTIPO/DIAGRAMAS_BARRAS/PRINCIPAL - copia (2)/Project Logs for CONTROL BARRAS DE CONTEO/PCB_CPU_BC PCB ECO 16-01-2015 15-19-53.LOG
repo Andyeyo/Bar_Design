@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=OP1 NewDesignator=OP2
+Added Component: Designator=OP1(4n35_4n33_6pines)
+Added Pin To Net: NetName=SN_OP1 Pin=OP1-2
+Added Pin To Net: NetName=GND Pin=OP1-8
+Change Net Name : Old Net Name=NetOP1_1 New Net Name=NetOP2_1
+Change Net Name : Old Net Name=NetOP1_7 New Net Name=NetOP2_7
+Added Pin To Net: NetName=NetOP1_1 Pin=OP1-1
+Added Pin To Net: NetName=NetOP1_1 Pin=R8-2
+Added Net: Name=NetOP1_1
+Added Pin To Net: NetName=NetOP1_7 Pin=OP1-7
+Added Pin To Net: NetName=NetOP1_7 Pin=R7-1
+Added Net: Name=NetOP1_7
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component OP2 4N33

@@ -1,0 +1,26 @@
+Added Component: Designator=LS1(C100UFA)
+Added Component: Designator=U7(A18)
+Added Pin To Net: NetName=5VCC Pin=LS1-2
+Added Pin To Net: NetName=PWM Pin=U7-1
+Added Pin To Net: NetName=PWM Pin=U7-2
+Added Pin To Net: NetName=PWM Pin=U7-3
+Added Pin To Net: NetName=PWM Pin=U7-4
+Added Pin To Net: NetName=PWM Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=5VCC Pin=U7-10
+Added Pin To Net: NetName=NetJC2_2 Pin=U7-18
+Added Net: Name=NetJC2_2
+Added Pin To Net: NetName=NetJC2_3 Pin=U7-17
+Added Net: Name=NetJC2_3
+Added Pin To Net: NetName=NetJC2_4 Pin=U7-16
+Added Net: Name=NetJC2_4
+Added Pin To Net: NetName=NetJC2_5 Pin=U7-15
+Added Net: Name=NetJC2_5
+Added Pin To Net: NetName=NetJC2_6 Pin=U7-14
+Added Net: Name=NetJC2_6
+Added Net: Name=NetJC2_7
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=U7-13
+Added Net: Name=NetLS1_1
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component LS1 Speaker
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component U7 ULN2803A

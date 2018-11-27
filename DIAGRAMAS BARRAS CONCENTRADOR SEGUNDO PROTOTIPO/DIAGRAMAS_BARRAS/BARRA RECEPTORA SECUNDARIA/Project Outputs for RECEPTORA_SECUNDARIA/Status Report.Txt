@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RECEPTORA_SECUNDARIA.PrjPCB]
+   Generated File[RECEPTORA_SECUNDARIA.TXT]
+   Generated File[RECEPTORA_SECUNDARIA.LDP]
+   Generated File[RECEPTORA_SECUNDARIA.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:33:46 On 24/05/2018

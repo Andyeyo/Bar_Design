@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=5VCC Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=P3-11
+Removed Pin From Net: NetName=SN_OP2 Pin=P3-12
+Removed Pin From Net: NetName=5VCC Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-6
+Removed Pin From Net: NetName=GND Pin=U6-15
+Removed Pin From Net: NetName=5VCC Pin=U6-16
+Added Component: Designator=P?(HDR1X4)
+Added Pin To Net: NetName=SN_OP2 Pin=P3-8
+Added Pin To Net: NetName=GND Pin=P3-10
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=5VCC Pin=P?-4
+Added Pin To Net: NetName=BLUE_RX Pin=P?-2
+Added Pin To Net: NetName=BLUE_RX Pin=U2-2
+Added Net: Name=BLUE_RX
+Added Pin To Net: NetName=BLUE_TX Pin=P?-1
+Added Pin To Net: NetName=BLUE_TX Pin=U2-3
+Added Net: Name=BLUE_TX
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component P? Header 4
+Added Room: Name=U_MDL-485
+Added Room: Name=U_MDL_CONTROL
+Added Room: Name=U_MDL_FUENTE_5V
+Added Room: Name=U_MDL_RECEPTOR_IRF
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

@@ -1,0 +1,197 @@
+Removed Pin From Net: NetName=5VCC Pin=E2-1
+Removed Pin From Net: NetName=GND Pin=E2-2
+Removed Pin From Net: NetName=5VCC Pin=P1-5
+Removed Pin From Net: NetName=5VCC Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=5VCC Pin=P2-1
+Removed Pin From Net: NetName=5VCC Pin=P2-1
+Removed Pin From Net: NetName=BOTON_PANICO2 Pin=P2-2
+Removed Pin From Net: NetName=BOTON_PANICO2 Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=24VCC Pin=P2-6
+Removed Pin From Net: NetName=24VCC Pin=P2-6
+Removed Pin From Net: NetName=24VCC_IN Pin=P3-1
+Removed Pin From Net: NetName=24VCC_IN Pin=P3-1
+Removed Pin From Net: NetName=24VCC_IN Pin=P3-1
+Removed Pin From Net: NetName=A Pin=P3-2
+Removed Pin From Net: NetName=B Pin=P3-6
+Removed Pin From Net: NetName=24VCC Pin=P4-1
+Removed Pin From Net: NetName=24VCC Pin=P4-1
+Removed Pin From Net: NetName=24VCC Pin=P4-1
+Removed Pin From Net: NetName=24VCC Pin=P4-2
+Removed Pin From Net: NetName=24VCC Pin=P4-3
+Removed Pin From Net: NetName=5VCC Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=P4-5
+Removed Pin From Net: NetName=GND Pin=P4-6
+Removed Pin From Net: NetName=GND Pin=P4-7
+Removed Pin From Net: NetName=GND Pin=P4-8
+Removed Pin From Net: NetName=BOTON_PANICO2 Pin=R9_panico-1
+Removed Pin From Net: NetName=GND Pin=R9_panico-2
+Removed Pin From Net: NetName=NetP2_4 Pin=R12_ioptp-2
+Removed Pin From Net: NetName=5VCC Pin=R_DE-1
+Removed Pin From Net: NetName=DE1_485 Pin=R_DE-2
+Removed Pin From Net: NetName=24VCC Pin=REGULADOR_VOLTAJE-1
+Removed Pin From Net: NetName=GND Pin=REGULADOR_VOLTAJE-3
+Removed Pin From Net: NetName=5VCC Pin=REGULADOR_VOLTAJE-4
+Removed Pin From Net: NetName=GND Pin=REGULADOR_VOLTAJE-5
+Removed Pin From Net: NetName=RS232_RX_MONITOREO Pin=RJ_SERIAL_1-7
+Removed Pin From Net: NetName=RS232_RXPC Pin=RJ_SERIAL_2-7
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Pin From Net: NetName=OPTO2 Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Pin From Net: NetName=OPTO3 Pin=U6-5
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=OPTO4 Pin=U7-5
+Removed Pin From Net: NetName=GND Pin=U8-4
+Removed Pin From Net: NetName=OPTO5 Pin=U8-5
+Removed Member From Class: ClassName=concentrador Member=E2
+Removed Member From Class: ClassName=concentrador Member=F1_FUENTE
+Removed Member From Class: ClassName=concentrador Member=P4
+Removed Member From Class: ClassName=concentrador Member=P6
+Removed Member From Class: ClassName=concentrador Member=R9_panico
+Removed Member From Class: ClassName=concentrador Member=REGULADOR_VOLTAJE
+Change Component DesignItemId : Designator=U5 Old DesignItemId=4N33 New DesignItemId=ILD74
+Change Component DesignItemId : Designator=U6 Old DesignItemId=4N33 New DesignItemId=ILD74
+Change Component DesignItemId : Designator=U7 Old DesignItemId=4N33 New DesignItemId=ILD74
+Change Component DesignItemId : Designator=U8 Old DesignItemId=4N33 New DesignItemId=ILD74
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 6 New DesignItemId=MHDR1X8
+Change Component DesignItemId : Designator=P2 Old DesignItemId=Header 6 New DesignItemId=MHDR1X8
+Change Component Footprint: Designator=U5 Old Footprint=DIP762W50P254L730H410Q6 New Footprint=4n35_4n33_6pines
+Change Component Footprint: Designator=U6 Old Footprint=DIP762W50P254L730H410Q6 New Footprint=4n35_4n33_6pines
+Change Component Footprint: Designator=U7 Old Footprint=DIP762W50P254L730H410Q6 New Footprint=4n35_4n33_6pines
+Change Component Footprint: Designator=U8 Old Footprint=DIP762W50P254L730H410Q6 New Footprint=4n35_4n33_6pines
+Change Component Comment : Designator=PULSADOR Old Comment=Cap2 New Comment=C2
+Change Component Comment : Designator=P1 Old Comment=Header 6 New Comment=MHDR1X8
+Change Component Comment : Designator=P2 Old Comment=Header 6 New Comment=MHDR1X8
+Change Component Designator: OldDesignator=C1_pic NewDesignator=C1
+Change Component Designator: OldDesignator=C7_FUENTE NewDesignator=C9
+Change Component Designator: OldDesignator=C8_FUENTE NewDesignator=C11
+Change Component Designator: OldDesignator=D1_FUENTE NewDesignator=D1
+Change Component Designator: OldDesignator=D1_R4 NewDesignator=D9
+Change Component Designator: OldDesignator=D2_FUENTE NewDesignator=D2
+Change Component Designator: OldDesignator=D2_T4 NewDesignator=D10
+Change Component Designator: OldDesignator=D5_ENCENDIDO NewDesignator=D11
+Change Component Designator: OldDesignator=D5_RELE NewDesignator=D5
+Change Component Designator: OldDesignator=D9_nc NewDesignator=D8
+Change Component Designator: OldDesignator=D10_NO NewDesignator=D7
+Change Component Designator: OldDesignator=E1 NewDesignator=C10
+Change Component Designator: OldDesignator=F1 NewDesignator=F3
+Change Component Designator: OldDesignator=F1_FUENTE NewDesignator=F1
+Change Component Designator: OldDesignator=PULSADOR NewDesignator=C2
+Change Component Designator: OldDesignator=R1_r4 NewDesignator=R2
+Change Component Designator: OldDesignator=R2_t4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5_RL_TRAN NewDesignator=R5
+Change Component Designator: OldDesignator=R6_LED_RELE NewDesignator=R6
+Change Component Designator: OldDesignator=R12_ioptp NewDesignator=R7
+Change Component Designator: OldDesignator=R13_opto NewDesignator=R12
+Change Component Designator: OldDesignator=R14_NC NewDesignator=R17
+Change Component Designator: OldDesignator=R15_NO NewDesignator=R18
+Change Component Designator: OldDesignator=R16_iopto NewDesignator=R8
+Change Component Designator: OldDesignator=R17_opto NewDesignator=R13
+Change Component Designator: OldDesignator=R18_iopto NewDesignator=R9
+Change Component Designator: OldDesignator=R19_opto NewDesignator=R14
+Change Component Designator: OldDesignator=R20_iopto NewDesignator=R10
+Change Component Designator: OldDesignator=R21_opto NewDesignator=R15
+Change Component Designator: OldDesignator=R_DE NewDesignator=R19
+Change Component Designator: OldDesignator=R_ENCENDIDO NewDesignator=R4
+Change Component Designator: OldDesignator=R_RESET NewDesignator=R1
+Change Component Designator: OldDesignator=RA NewDesignator=R20
+Change Component Designator: OldDesignator=RAB NewDesignator=R21
+Change Component Designator: OldDesignator=RB NewDesignator=R22
+Change Component Description : Designator=P1 Old Description=Header, 6-Pin New Description=Header, 8-Pin
+Change Component Description : Designator=P2 Old Description=Header, 6-Pin New Description=Header, 8-Pin
+Added Component: Designator=C12(C1000UF)
+Added Component: Designator=R11(AXIAL-0.3)
+Added Component: Designator=R16(AXIAL-0.3)
+Added Component: Designator=U9(4n35_4n33_6pines)
+Added Component: Designator=U10(FP_LM2596_D_PCB)
+Added Pin To Net: NetName=5VCC Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=24VCC Pin=P1-5
+Added Pin To Net: NetName=24VCC Pin=P1-5
+Added Pin To Net: NetName=5VCC Pin=P1-6
+Added Pin To Net: NetName=5VCC Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=24VCC_IN Pin=P2-3
+Added Pin To Net: NetName=24VCC_IN Pin=P2-3
+Added Pin To Net: NetName=24VCC Pin=P3-1
+Added Pin To Net: NetName=24VCC Pin=P3-1
+Added Pin To Net: NetName=24VCC Pin=P3-1
+Added Pin To Net: NetName=24VCC Pin=P3-2
+Added Pin To Net: NetName=5VCC Pin=P3-6
+Added Pin To Net: NetName=NetP2_4 Pin=R11-2
+Added Pin To Net: NetName=5VCC Pin=R16-1
+Added Pin To Net: NetName=BOTON_PANICO2 Pin=R16-2
+Added Pin To Net: NetName=DE1_485 Pin=R19-1
+Added Pin To Net: NetName=5VCC Pin=R19-2
+Added Pin To Net: NetName=5VCC Pin=RJ_SERIAL_1-1
+Added Pin To Net: NetName=5VCC Pin=RJ_SERIAL_1-2
+Added Pin To Net: NetName=RS232_RX_MONITOREO Pin=RJ_SERIAL_1-5
+Added Pin To Net: NetName=GND Pin=RJ_SERIAL_1-7
+Added Pin To Net: NetName=5VCC Pin=RJ_SERIAL_2-1
+Added Pin To Net: NetName=5VCC Pin=RJ_SERIAL_2-2
+Added Pin To Net: NetName=RS232_RXPC Pin=RJ_SERIAL_2-5
+Added Pin To Net: NetName=GND Pin=RJ_SERIAL_2-7
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=OPTO2 Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=OPTO3 Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=OPTO4 Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=OPTO5 Pin=U8-7
+Added Pin To Net: NetName=GND Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=BOTON_PANICO2 Pin=U9-7
+Added Pin To Net: NetName=24VCC Pin=U10-1
+Added Pin To Net: NetName=GND Pin=U10-3
+Added Pin To Net: NetName=5VCC Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Change Net Name : Old Net Name=NetD1_R4_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD2_FUENTE_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD2_T4_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD5_ENCENDIDO_1 New Net Name=NetD11_1
+Change Net Name : Old Net Name=NetD5_RELE_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD9_nc_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD9_nc_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD10_NO_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD10_NO_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetPULSADOR_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetR12_ioptp_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR16_iopto_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR18_iopto_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR20_iopto_1 New Net Name=NetR10_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U10-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Pin To Net: NetName=NetP2_5 Pin=R10-2
+Added Net: Name=NetP2_5
+Added Pin To Net: NetName=NetP2_6 Pin=P2-6
+Added Pin To Net: NetName=NetP2_6 Pin=P2-6
+Added Pin To Net: NetName=NetP2_6 Pin=R9-2
+Added Net: Name=NetP2_6
+Added Pin To Net: NetName=NetP2_7 Pin=R8-2
+Added Net: Name=NetP2_7
+Added Pin To Net: NetName=NetP2_8 Pin=R7-2
+Added Net: Name=NetP2_8
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U9-1
+Added Net: Name=NetR11_1
+Added Member To Class: ClassName=concentrador Member=Component C12 Cap Pol1
+Added Member To Class: ClassName=concentrador Member=Component F3 Fuse
+Added Member To Class: ClassName=concentrador Member=Component R11 Res1
+Added Member To Class: ClassName=concentrador Member=Component R16 Res1
+Added Member To Class: ClassName=concentrador Member=Component U9 4N33
+Added Member To Class: ClassName=concentrador Member=Component U10 LM2596T-5.0
+Added Room: Name=concentrador

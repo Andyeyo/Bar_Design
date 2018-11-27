@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5VCC Pin=B1-1
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Member From Class: ClassName=concentrador Member=B1
+Added Component: Designator=H2(Header 1X2)
+Added Pin To Net: NetName=5VCC Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Member To Class: ClassName=concentrador Member=Component H2 Header
+Added Room: Name=concentrador

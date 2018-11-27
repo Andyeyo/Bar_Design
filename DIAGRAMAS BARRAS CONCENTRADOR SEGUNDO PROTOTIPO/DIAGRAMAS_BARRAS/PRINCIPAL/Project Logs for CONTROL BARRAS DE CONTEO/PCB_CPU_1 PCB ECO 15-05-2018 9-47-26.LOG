@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=JUMPER_1 Pin=U2-21
+Removed Pin From Net: NetName=JUMPER_2 Pin=U2-22
+Removed Pin From Net: NetName=BUZZER Pin=U2-37
+Added Pin To Net: NetName=BUZZER Pin=U2-21
+Added Pin To Net: NetName=JUMPER_1 Pin=U2-22
+Added Pin To Net: NetName=JUMPER_2 Pin=U2-23
+Added Room: Name=U_MDL-485
+Added Room: Name=U_MDL_CONTROL
+Added Room: Name=U_MDL_FUENTE_5V
+Added Room: Name=U_MDL_RECEPTOR_IRF
+Added Room: Name=U_MDL_RECEPTOR_IRF_1
+Added Room: Name=U_MDL_RECEPTOR_IRF_2

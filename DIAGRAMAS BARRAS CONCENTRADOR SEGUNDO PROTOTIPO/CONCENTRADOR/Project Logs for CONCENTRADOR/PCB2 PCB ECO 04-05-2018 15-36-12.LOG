@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=24VCC Pin=P4-4
+Removed Pin From Net: NetName=24VCC Pin=P4-7
+Removed Pin From Net: NetName=5VCC Pin=P4-8
+Added Pin To Net: NetName=24VCC Pin=P4-1
+Added Pin To Net: NetName=24VCC Pin=P4-1
+Added Pin To Net: NetName=24VCC Pin=P4-1
+Added Pin To Net: NetName=24VCC Pin=P4-2
+Added Pin To Net: NetName=5VCC Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-7
+Added Pin To Net: NetName=GND Pin=P4-8
+Added Room: Name=concentrador

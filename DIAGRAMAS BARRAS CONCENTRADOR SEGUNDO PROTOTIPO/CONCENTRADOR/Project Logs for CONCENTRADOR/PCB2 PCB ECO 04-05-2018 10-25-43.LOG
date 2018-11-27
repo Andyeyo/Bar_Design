@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=U6 Old Footprint=4n35_4n33_6pines New Footprint=DIP762W50P254L730H410Q6
+Change Component Footprint: Designator=U7 Old Footprint=4n35_4n33_6pines New Footprint=DIP762W50P254L730H410Q6
+Change Component Footprint: Designator=U8 Old Footprint=4n35_4n33_6pines New Footprint=DIP762W50P254L730H410Q6
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=OPTO3 Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=OPTO4 Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=OPTO5 Pin=U8-5
+Added Room: Name=concentrador

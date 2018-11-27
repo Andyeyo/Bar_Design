@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=5VCC Pin=R17-1
+Removed Pin From Net: NetName=OPTO3 Pin=R17-2
+Removed Member From Class: ClassName=concentrador Member=R17
+Change Component Designator: OldDesignator=D9 NewDesignator=D9_nc
+Change Component Designator: OldDesignator=D10 NewDesignator=D10_NO
+Change Component Designator: OldDesignator=R1 NewDesignator=R1_r4
+Change Component Designator: OldDesignator=R2 NewDesignator=R2_t4
+Change Component Designator: OldDesignator=R5 NewDesignator=R5_RL_TRAN
+Change Component Designator: OldDesignator=R6 NewDesignator=R6_LED_RELE
+Change Component Designator: OldDesignator=R9 NewDesignator=R9_panico
+Change Component Designator: OldDesignator=R13 NewDesignator=R13_opto
+Change Component Designator: OldDesignator=R14 NewDesignator=R14_NC
+Change Component Designator: OldDesignator=R15 NewDesignator=R15_NO
+Change Component Designator: OldDesignator=R19 NewDesignator=R19_opto
+Change Component Designator: OldDesignator=R21 NewDesignator=R21_opto
+Added Component: Designator=R17_opto(AXIAL-0.3)
+Added Pin To Net: NetName=5VCC Pin=R17_opto-1
+Added Pin To Net: NetName=OPTO3 Pin=R17_opto-2
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD9_nc_1
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD9_nc_2
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD10_NO_1
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD10_NO_2
+Added Member To Class: ClassName=concentrador Member=Component R17_opto Res1
+Added Room: Name=concentrador

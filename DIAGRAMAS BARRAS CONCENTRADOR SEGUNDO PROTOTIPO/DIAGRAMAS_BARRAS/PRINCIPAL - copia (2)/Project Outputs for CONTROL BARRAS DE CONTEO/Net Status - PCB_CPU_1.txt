@@ -1,0 +1,50 @@
+Net Status Report
+Filename     : H:\OTROS PROYECTOS\caja comun\DIAGRAMAS_BARRAS\SEGUNDO PROTOTIPO\PRINCIPAL\PCB_CPU_1.PcbDoc
+Date         : 23/05/2018
+Time         : 8:42:14
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    24VCC, Signal Layers Only, 143.1314mm
+    485_DO_A, Signal Layers Only, 178.9963mm
+    485_DO_B, Signal Layers Only, 173.7616mm
+    5VCC, Signal Layers Only, 414.9458mm
+    ACTIVACION_COM, Signal Layers Only, 29.6465mm
+    BLUE_RX, Signal Layers Only, 70.4904mm
+    BLUE_TX, Signal Layers Only, 93.7094mm
+    BUZZER, Signal Layers Only, 99.6849mm
+    DET_1, Signal Layers Only, 148.2921mm
+    DET_2, Signal Layers Only, 53.6536mm
+    DET_3, Signal Layers Only, 56.4829mm
+    DET_4, Signal Layers Only, 58.834mm
+    DET_5, Signal Layers Only, 61.5885mm
+    DET_6, Signal Layers Only, 47.4831mm
+    DI_485, Signal Layers Only, 52.1169mm
+    GND, Signal Layers Only, 555.407mm
+    JUMPER_1, Signal Layers Only, 21.3071mm
+    JUMPER_2, Signal Layers Only, 33.8067mm
+    JUMPER_3, Signal Layers Only, 34.4764mm
+    JUMPER_4, Signal Layers Only, 91.5582mm
+    NetC12_1, Signal Layers Only, 13.6615mm
+    NetC14_1, Signal Layers Only, 26.2896mm
+    NetC15_1, Signal Layers Only, 19.7048mm
+    NetC16_2, Signal Layers Only, 20.6973mm
+    NetC3_1, Signal Layers Only, 15.5444mm
+    NetC4_2, Signal Layers Only, 22.5469mm
+    NetD1_2, Signal Layers Only, 114.0904mm
+    NetD2_1, Signal Layers Only, 22.2834mm
+    NetOP1_1, Signal Layers Only, 28.0373mm
+    NetOP2_1, Signal Layers Only, 81.4481mm
+    OPTO_ALIMENTACION, Signal Layers Only, 65.5737mm
+    OPTO_PUERTA, Signal Layers Only, 57.7574mm
+    PUERTA, Signal Layers Only, 100.4113mm
+    PWM, Signal Layers Only, 138.2465mm
+    P_RJ45, Signal Layers Only, 119.9658mm
+    RE_485, Signal Layers Only, 14.1413mm
+    RGB_A, Signal Layers Only, 108.2867mm
+    RGB_R, Signal Layers Only, 46.1417mm
+    RGB_V, Signal Layers Only, 47.5297mm
+    RO_485, Signal Layers Only, 55.3999mm
+    VCC_IN, Signal Layers Only, 44.5654mm
+    VS, Signal Layers Only, 88.7304mm
+count : 42

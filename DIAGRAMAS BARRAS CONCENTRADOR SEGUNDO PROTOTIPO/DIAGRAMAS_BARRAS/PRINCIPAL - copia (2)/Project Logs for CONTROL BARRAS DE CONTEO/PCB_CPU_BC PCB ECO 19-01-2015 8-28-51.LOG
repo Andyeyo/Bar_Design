@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetQ1_2 Pin=R2-1
+Removed Pin From Net: NetName=PRD3 Pin=R2-2
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res2 New DesignItemId=Res1
+Change Component DesignItemId : Designator=R2 Old DesignItemId=Res2 New DesignItemId=Res1
+Added Pin To Net: NetName=NetQ1_2 Pin=R2-2

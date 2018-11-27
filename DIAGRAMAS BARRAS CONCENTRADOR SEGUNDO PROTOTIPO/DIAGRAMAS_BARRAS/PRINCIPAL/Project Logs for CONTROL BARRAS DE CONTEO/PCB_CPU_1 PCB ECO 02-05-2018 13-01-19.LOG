@@ -1,0 +1,10 @@
+Added Component: Designator=JC2(15-43-6233)
+Added Pin To Net: NetName=5VCC Pin=JC2-1
+Added Pin To Net: NetName=NetJC2_2 Pin=JC2-2
+Added Pin To Net: NetName=NetJC2_3 Pin=JC2-3
+Added Pin To Net: NetName=NetJC2_4 Pin=JC2-4
+Added Pin To Net: NetName=NetJC2_5 Pin=JC2-5
+Added Pin To Net: NetName=NetJC2_6 Pin=JC2-6
+Added Pin To Net: NetName=NetJC2_7 Pin=JC2-7
+Added Pin To Net: NetName=GND Pin=JC2-8
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component JC2 RJ45

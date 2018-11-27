@@ -1,0 +1,16 @@
+Added Component: Designator=F1(fusible1)
+Added Component: Designator=P_BLUE(HDR1X4)
+Added Pin To Net: NetName=NetD2_1 Pin=F1-1
+Added Pin To Net: NetName=NetD2_1 Pin=F1-1
+Added Pin To Net: NetName=VCC_IN Pin=F1-2
+Added Pin To Net: NetName=VCC_IN Pin=F1-2
+Added Pin To Net: NetName=5VCC Pin=P_BLUE-1
+Added Pin To Net: NetName=GND Pin=P_BLUE-2
+Added Pin To Net: NetName=RX_BLUE Pin=P_BLUE-3
+Added Pin To Net: NetName=RX_BLUE Pin=U2-33
+Added Net: Name=RX_BLUE
+Added Pin To Net: NetName=TX_BLUE Pin=P_BLUE-4
+Added Pin To Net: NetName=TX_BLUE Pin=U2-34
+Added Net: Name=TX_BLUE
+Added Member To Class: ClassName=U_MDL_FUENTE_5V Member=Component F1 Fuse 1
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component P_BLUE Header 4

@@ -1,0 +1,21 @@
+Added Component: Designator=U1(N08E)
+Added Component: Designator=U4(PDIP300-P18)
+Added Pin To Net: NetName=RO_485 Pin=U1-1
+Added Pin To Net: NetName=485_RE Pin=U1-2
+Added Pin To Net: NetName=485_RE Pin=U1-3
+Added Pin To Net: NetName=DI_485 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=485_DO_A Pin=U1-6
+Added Pin To Net: NetName=485_DO_B Pin=U1-7
+Added Pin To Net: NetName=5VCC Pin=U1-8
+Added Pin To Net: NetName=P_RJ45 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=NetP2_1 Pin=U4-6
+Added Pin To Net: NetName=NetP2_2 Pin=U4-9
+Added Pin To Net: NetName=NetP2_3 Pin=U4-10
+Added Pin To Net: NetName=NetP2_4 Pin=U4-11
+Added Pin To Net: NetName=5VCC Pin=U4-14
+Added Pin To Net: NetName=NetC6_1 Pin=U4-15
+Added Pin To Net: NetName=NetC5_2 Pin=U4-16
+Added Member To Class: ClassName=U_MDL-485 Member=Component U1 DS3695N
+Added Member To Class: ClassName=U_MDL_CONTROL Member=Component U4 PIC16F628A-I/P
