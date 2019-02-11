@@ -1,13 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [CONCENTRADOR.PrjPcb]
-   Generated File[PCB_CONCENTRADOR-RoundHoles.TXT]
-   Generated File[PCB_CONCENTRADOR-SlotHoles.TXT]
-   Generated File[PCB_CONCENTRADOR.LDP]
-   Generated File[PCB_CONCENTRADOR.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [CONCENTRADOR.PrjPcb]
 
 
-Files Generated   : 4
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 12:54:29 On 24/05/2018
+Finished Output Generation At 9:16:45 On 6/12/2018

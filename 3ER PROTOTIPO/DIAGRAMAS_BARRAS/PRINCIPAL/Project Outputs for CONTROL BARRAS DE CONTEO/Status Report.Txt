@@ -1,12 +1,9 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [CONTROL BARRAS DE CONTEO.PrjPcb]
-   Generated File[PCB_CPU_1.TXT]
-   Generated File[PCB_CPU_1.LDP]
-   Generated File[PCB_CPU_1.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [CONTROL BARRAS DE CONTEO.PrjPcb]
 
 
-Files Generated   : 3
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 13:41:42 On 24/05/2018
+Finished Output Generation At 8:33:09 On 6/12/2018
